@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+dist/
+build/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Optional: Ignore coverage if using test tools
+coverage/
